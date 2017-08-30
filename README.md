@@ -1,7 +1,4 @@
-# AdonisJs + LucidMongo + Swagger jsdoc Application
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/duyluonglc/adonis-mongodb-boilerplate.svg)](https://greenkeeper.io/)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+# AdonisJs + Twitter Crawl
 
 ## :arrow_up: How to Setup
 
@@ -19,14 +16,3 @@
 
 1. cd to the repo
 2. Run `npm run dev`
-
-**Explore to Swagger page:**
- [http://localhost:3333/docs](http://localhost:3333/docs)
- 
- ![alt tag](screen-shoot.png)
-
- ## test
- 
- copy file `.env.example` to `.env.test`
- 
- `npm run test`
